@@ -32,8 +32,6 @@ while fim == "n":
                   Você ganhou desconto de 10%!!!
                   Os seus produtos: {listaProd}, no valor total de: R${valorTotal:.2f} 
                   Você pagará apenas R${valorTotal*0.9:.2f}""")
-            print(listaProd)
-            print(valorProd)
         else:
             print(f"Produto: {listaProd}, Valor total dos produtos: R${valorTotal:.2f}")
 
