@@ -26,13 +26,16 @@ while fim == "n":
 
     if fim == "s":
         cupom = input("Você usou cupom na última compra? (s/n)").lower()
-        if len(listaProd)>= 5 or valorTotal >=100 or cupom == "s":
+        if len(listaProd)>= 5 or valorTotal >=100 or cupom == "n":
             print(f"""
                   Parábéns!!!!!
                   Você ganhou desconto de 10%!!!
                   Os seus produtos: {listaProd}, no valor total de: R${valorTotal:.2f} 
                   Você pagará apenas R${valorTotal*0.9:.2f}""")
         else:
-            print(f"Produto: {listaProd}, Valor total dos produtos: R${valorTotal:.2f}")
+            print("\n")
+            for item in range (len(listaProd)):
+                print (f" {item+1} - {listaProd[item]} no valor de: R$ {valorProd[item]}")
+            print(f"\nTotalizando {len(listaProd)} produto(s) com valor total de R$ {valorTotal:.2f}\n")   
 
-   
+
