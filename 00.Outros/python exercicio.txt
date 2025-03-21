@@ -1,0 +1,126 @@
+1 URL: https://www.emprego.pt/jobs/show/31604304503891111488323824669?utm_campaign=jobrapido-BR&utm_medium=feed&utm_source=jobrapido
+
+Vaga para Programador Python com experiência
+
+Estamos em busca de um programador para se juntar à nossa equipe. Se você é apaixonado por programação, possui experiência em programação python, além de ter conhecimento em banco de dados, esta pode ser a oportunidade ideal para você.
+
+Responsabilidades:
+Desenvolver e manter aplicações em python
+
+Colaborar com a equipe para definir e implementar soluções inovadoras.
+
+Participar ativamente na análise e design de sistemas.
+
+Realizar testes e depuração de aplicativos para garantir o desempenho e a segurança.
+
+Contribuir para a documentação técnica.
+
+Requisitos:
+Experiência em Python
+
+Conhecimento em banco de dados e modelagem de dados.
+
+Capacidade de trabalhar tanto no desenvolvimento backend.
+
+Habilidade para resolver problemas de forma eficiente.
+
+Nível de conhecimento pleno em programação.
+
+Tipo de vaga: Tempo integral, Efetivo CLT
+
+Pagamento: R$2.200,00 - R$10.333,46 por mês
+
+
+2 URL: https://www.catho.com.br/vagas/desenvolvedor-python/31218335/
+
+Sobre a vaga
+Domínio de Python e atuação em projetos com Django;
+Modelagem de APIs: desenvolvimento e consumo (REST);
+Domínio de Testes Automatizados (unitário e integrado);
+Acompanhar os lançamentos de notas no sistema.
+Realizar diariamente as rotinas de Back-up
+Experiência com SQL database;
+Experiência com Docker e Kubernetes;
+Experiência atuando com sistemas ERP;
+Ter atuado em times ágeis (Kanban, Scrum) e gostar de atuar com time multifuncional
+
+3 URL:https://www.vagas.com.br/vagas/v2710909/desenvolvedor-senior-fullstack
+
+Descrição:
+Responsável por desenvolver e manter aplicações web robustas e escaláveis, incluindo integração com tecnologias SAP (ex: SRM). Colabora com designers e outros desenvolvedores para criar interfaces de usuário intuitivas e eficazes, participando de revisões de código e contribuindo para a melhoria contínua dos processos de desenvolvimento.
+
+
+
+• Desenvolver e manter aplicações web robustas e escaláveis, incluindo integração com tecnologias SAP
+
+• Colaborar com designers e outros desenvolvedores para criar interfaces de usuário intuitivas e eficazes
+
+• Participar de revisões de código e contribuir para a melhoria contínua dos processos de desenvolvimento
+
+• Garantir que as melhores práticas de segurança e governança sejam aplicadas no desenvolvimento, incluindo low-code
+
+• Implementar arquiteturas de microserviços e desenvolver APIs RESTful e GraphQL
+
+• Otimizar o desempenho e a escalabilidade de aplicações, incluindo técnicas de caching
+
+
+
+Graduação em Ciência da Computação, Engenharia de Software, ou área relacionada
+
+
+
+
+Idiomas:
+Inglês - Nível Intermediário
+
+
+Outros requisitos:
+• Desenvolvimento Web Avançado
+
+• Arquitetura de Microserviços
+
+• DevSecOps e CI/CD
+
+• Desenvolvimento Low-Code
+
+• UX/UI Design
+
+• E-commerce B2B
+
+• Segurança da Informação
+
+• Business Intelligence para E-commerce
+
+• Linguagens: HTML, CSS, JavaScript, e linguagens backend como Python, Ruby, Java, .Net ou Node.js
+
+• Frameworks: Django, Ruby on Rails, Express.js, Laravel, Spring Boot
+
+• Frontend: React, Vue.js, Angular
+
+• Bancos de Dados: PostgreSQL, MySQL, SQL Server, MongoDB, Cassandra, Redis
+
+• DevOps: Jenkins, GitLab CI, GitHub Actions, ELK Stack, Prometheus, Grafana
+
+• APIs: RESTful, GraphQL, Swagger, Postman
+
+• Segurança: Fortify, Veracode, Acunetix, AppSpider, Checkmarx Interactive
+
+• Low-Code: OutSystems, Mendix, ou Appian
+
+• Ferramentas UX/UI: Figma, Sketch, Adobe XD
+
+• E-commerce: Plataformas B2B, APIs de e-commerce
+
+• Analytics: Google Analytics, Power BI
+
+
+
+
+
+Certificações:
+
+• AWS Certified Solutions Architect
+
+• Google Cloud Certified - Professional Cloud Architect
+
+• Microsoft Certified: Azure Solutions Architect
