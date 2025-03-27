@@ -28,17 +28,17 @@ def pergunta():
 #     resultado = soma(5,7)
 #     print("A soma é: ",resultado)
 
-def testePergunta():
-    pergunta()
-    print(pergunta)
-            # def testeFatorial ():
-            # numero = int(input("Coloque o seu número: "))
-            #   print (f"O fatorial de {numero} é {fatorial(numero)}")
+# def testePergunta():
+#     pergunta()
+
+def testeFatorial ():
+    numero = int(input("Coloque o seu número: "))
+    print (f"O fatorial de {numero} é {fatorial(numero)}")
 
 
 if __name__ == "__main__":
     # testeSaudacao()
     # print (f"O somatório é {resultado}")
     # testeSoma()
-    # testeFatorial()
-    testePergunta()
+    # testePergunta()
+    testeFatorial()
